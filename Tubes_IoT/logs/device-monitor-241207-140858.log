@@ -1,0 +1,24 @@
+0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Scan kartu RFID untuk mendaftarkan...
+UID Kartu Terbaca: 3379D826
+Kartu berhasil didaftarkan!
+UID Terdaftar: 3379D826
+UID Kartu Terbaca: 3379D826
+Kartu ini sudah terdaftar.
+UID Kartu Terbaca: A31EDAF
+Kartu berbeda. UID: A31EDAF
+UID Kartu Terbaca: A31EDAF
+Kartu berbeda. UID: A31EDAF
+UID Kartu Terbaca: E3B06029
+Kartu berbeda. UID: E3B06029
+UID Kartu Terbaca: A31EDAF
+Kartu berbeda. UID: A31EDAF
+UID Kartu Terbaca: 3379D826
+Kartu ini sudah terdaftar.

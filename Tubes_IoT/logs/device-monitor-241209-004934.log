@@ -1,0 +1,84 @@
+0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+RFID Reader Siap!
+Scan kartu untuk mendaftarkan...
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+UID Kartu Terbaca: E3B06029
+Kartu belum terdaftar. Masukkan nama pemilik kartu:
+Kartu berhasil didaftarkan!
+UID: E3B06029, Nama: a
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+UID Kartu Terbaca: E3B06029
+Kartu sudah terdaftar atas nama: a
+Membuka kunci...
+Kunci terbuka
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.
+Objek terdeteksi oleh IR1. Silakan tapping kartu.
+Objek masih berada di antara IR1 dan IR2. Menjaga kunci tetap terbuka.

@@ -1,0 +1,40 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+RFID Reader Siap!
+Scan kartu untuk mendaftarkan...
+UID Kartu Terbaca: E3B06029
+-1
+Kartu belum terdaftar. Masukkan nama pemilik kartu:
+Kartu berhasil didaftarkan!
+UID: E3B06029, Nama: A
+UID Kartu Terbaca: E3B06029
+0
+Kartu sudah terdaftar atas nama: A
+Membuka kunci...
+Kunci terbuka.
+Kunci tertutup.
+UID Kartu Terbaca: A31EDAF
+-1
+Kartu belum terdaftar. Masukkan nama pemilik kartu:
+Kartu berhasil didaftarkan!
+UID: A31EDAF, Nama: B
+UID Kartu Terbaca: A31EDAF
+1
+Kartu sudah terdaftar atas nama: B
+Membuka kunci...
+Kunci terbuka.
+Kunci tertutup.
+UID Kartu Terbaca: E3B06029
+0
+Kartu sudah terdaftar atas nama: A
+Membuka kunci...
+Kunci terbuka.
+Kunci tertutup.

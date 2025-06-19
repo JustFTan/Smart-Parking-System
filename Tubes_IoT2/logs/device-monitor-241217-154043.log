@@ -1,0 +1,321 @@
+0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Connecting to Wi-Fi.
+Connected with IP: 192.168.1.76
+
+Firebase Client v4.4.15
+
+Firebase success
+RFID Reader Siap!
+Scan kartu untuk mendaftarkan...
+Kartu belum terdaftar
+PASSED: 0
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 0
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 0
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 0
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 0
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+TESTT
+E3B06029
+A31EDAF
+TESTT
+3379D826
+A31EDAF
+TESTT
+A31EDAF
+A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+PASSED: 1
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+IR 2 DETEKSI
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: Tutup
+PASSED: 1
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+TESTT
+E3B06029
+A31EDAF
+TESTT
+3379D826
+A31EDAF
+TESTT
+A31EDAF
+A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+IR 2 DETEKSI
+PASSED: 2
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: Tutup
+PASSED: 2
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+TESTT
+E3B06029
+A31EDAF
+TESTT
+3379D826
+A31EDAF
+TESTT
+A31EDAF
+A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+IR 2 DETEKSI
+PASSED: 3
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: Tutup
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+TESTT
+E3B06029
+A31EDAF
+TESTT
+3379D826
+A31EDAF
+TESTT
+A31EDAF
+A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+PASSED: 4
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+IR 2 DETEKSI
+PASSED: 4
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 4
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: Tutup
+PASSED: 4
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+TESTT
+E3B06029
+A31EDAF
+TESTT
+3379D826
+A31EDAF
+TESTT
+A31EDAF
+A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+PASSED: 5
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+IR 2 DETEKSI
+PASSED: 5
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: Tutup
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+TESTT
+E3B06029
+A31EDAF
+TESTT
+3379D826
+A31EDAF
+TESTT
+A31EDAF
+A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+TESTT
+E3B06029
+A31EDAF
+TESTT
+3379D826
+A31EDAF
+TESTT
+A31EDAF
+A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 5
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar

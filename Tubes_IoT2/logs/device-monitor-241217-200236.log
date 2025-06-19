@@ -1,0 +1,419 @@
+I_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Connecting to Wi-Fi.
+Connected with IP: 192.168.1.76
+
+Firebase Client v4.4.15
+
+Firebase success
+RFID Reader Siap!
+Scan kartu untuk mendaftarkan...
+Kartu belum terdaftar
+FAILED
+REASON: Bad request.
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+FAILED
+REASON: Bad request.
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+FAILED
+REASON: Bad request.
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+FAILED
+REASON: Bad request.
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+FAILED
+REASON: Bad request.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+TESTT
+E3B06029
+3379D826
+TESTT
+3379D826
+3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+IR 2 DETEKSI
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKIKunci tertutup.
+PASSED: Tutup
+PASSED: 1
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 1
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+TESTT
+E3B06029
+3379D826
+TESTT
+3379D826
+3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 2
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+IR 2 DETEKSI
+PASSED: 2
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: Tutup
+PASSED: 2
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+TESTT
+E3B06029
+3379D826
+TESTT
+3379D826
+3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :1
+TEMP2 :0
+Kartu belum terdaftar
+IR 2 DETEKSI
+PASSED: 3
+TEMP1 :1
+TEMP2 :1
+Kartu belum terdaftar
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: Tutup
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar
+PASSED: 3
+TEMP1 :0
+TEMP2 :0
+Kartu belum terdaftar

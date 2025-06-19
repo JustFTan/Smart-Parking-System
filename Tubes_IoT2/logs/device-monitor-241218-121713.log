@@ -1,0 +1,918 @@
+0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Connecting to Wi-Fi..
+Connected with IP: 192.168.137.185
+
+Firebase Client v4.4.15
+
+Firebase success
+RFID Reader Siap!
+Scan kartu untuk mendaftarkan...
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+Bad request.
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 1
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Connecting to Wi-Fi.
+Connected with IP: 192.168.137.185
+
+Firebase Client v4.4.15
+
+Firebase success
+RFID Reader Siap!
+Scan kartu untuk mendaftarkan...
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+Bad request.
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+FAILED
+REASON: Bad request.
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 1
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 2
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 3
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 4
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 3
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: A31EDAF
+Kartu sudah terdaftar dengan UID : A31EDAF
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 4
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: E3B06029
+Kartu sudah terdaftar dengan UID : E3B06029
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 5
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+UID Kartu Terbaca: 3379D826
+Kartu sudah terdaftar dengan UID : 3379D826
+IR 1 DETEKSI
+Kunci terbuka.
+PASSED: Buka
+TEMP1 :1
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 DETEKSI
+TEMP1 :1
+TEMP2 :1
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+IR 2 TIDAK DETEKSI
+Kunci tertutup.
+PASSED: 5
+PASSED: Tutup
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
+Kapasitas penuh, tidak dapat mendaftarkan kartu baru.
+TEMP1 :0
+TEMP2 :0
